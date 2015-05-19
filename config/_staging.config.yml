@@ -38,10 +38,10 @@ relative_permalinks: false
 
 name: Birmingham Sports Awards 2015
 
-url: beta
-static: beta/static
-media: beta/media
-api: beta/api
+url: /beta
+static: /beta/static
+media: /beta/media
+api: /beta/api
 
 ## Analytics
 
