@@ -55,7 +55,7 @@ module.exports = function(grunt) {
         command: 'jekyll build --config config/_config.yml'
       },
       jekyll_stage: {
-        command: 'jekyll build --destination <%= grunt.config.get("dest") %> --config _config.stage.yml'
+        command: 'jekyll build --destination <%= grunt.config.get("dest") %> --config config/_staging.config.yml'
       },
       jekyll_deploy: {
         command: 'jekyll build --destination <%= grunt.config.get("dest") %> --config _config.production.yml'

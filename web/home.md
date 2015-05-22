@@ -28,7 +28,7 @@ sitemap:
 
 The 2015 Birmingham Sports Awards will celebrate and reward the outstanding achievements of Birmingham&rsquo;s exceptional sporting successes. Across professional and amateur sport in the area, disabled and non-disabled people will be recognised, demonstrating to the wider community that Birmingham really is home some of the most successful sporting talents and rising stars in the country today.
 
-Nominations will be open until [TBC].
+Nominations will be open until midnight on Friday, 14 August 2015.
 
 The awards presentation dinner, which will take place on Thursday, 17&nbsp;September&nbsp;2015 and will be supported by businesses and organisations from across the West Midlands, who recognise the importance of supporting sport in their local community.
 

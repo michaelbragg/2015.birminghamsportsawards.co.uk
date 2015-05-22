@@ -1,0 +1,56 @@
+# _config.yml
+
+# Server Config
+
+safe: true
+
+source: ./web
+destination: ./beta
+safe: true
+
+timezone: Europe/London
+encoding: "utf-8"
+
+future: false
+
+## Collections
+
+collections:
+  awards:
+    output: false
+    permalink: /categories/:path/
+  sponsors:
+    output: true
+    permalink: /sponsors/:path/
+
+## Conversion
+
+markdown: kramdown
+highlighter: pygments
+lsi: false
+excerpt_separator: "\n\n"
+
+## Backwards-compatibility
+
+relative_permalinks: false
+
+# Site Config
+
+name: Birmingham Sports Awards 2015
+
+url: /beta
+static: /beta/static
+media: /beta/media
+api: http://www.birminghamsportsawards.co.uk/api
+
+## Analytics
+
+google_analytics_id:
+google_tag_manager_id:
+
+## Meta
+
+meta:
+  author:
+  description:
+  keywords:
