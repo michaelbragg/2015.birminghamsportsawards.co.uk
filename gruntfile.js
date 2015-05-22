@@ -58,7 +58,7 @@ module.exports = function(grunt) {
         command: 'jekyll build --destination <%= grunt.config.get("dest") %> --config config/_staging.config.yml'
       },
       jekyll_deploy: {
-        command: 'jekyll build --destination <%= grunt.config.get("dest") %> --config _config.production.yml'
+        command: 'jekyll build --destination <%= grunt.config.get("dest") %> --config config/_master.config.yml'
       },
       open: {
         command: 'open ./<%= grunt.config.get("dest") %>'
