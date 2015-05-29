@@ -1,8 +1,8 @@
 ---
-title: Spire Healthcare
+title: Perform Spire Little Aston Hospital
 award: Amateur Sportsman of the Year
 level: amateur
 image:
-logo: logo_spire-healthcare.svg
+logo: logo_perform.svg
 link: http://www.spirehealthcare.com/
 ---
