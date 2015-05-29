@@ -9,7 +9,7 @@ heading: amateur
 
 sponsor:
  name: Spire Healthcare
- logo: logo_spire-healthcare.svg
+ logo: logo_perform.svg
  link: http://www.spirehealthcare.com/
 
 ---
