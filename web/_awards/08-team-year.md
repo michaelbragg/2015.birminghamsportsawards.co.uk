@@ -14,4 +14,5 @@ sponsor:
 
 ---
 
-This award recognises a team that has seen considerable success as a result of their work together. With high levels of skill in their sport and the ability to work exceptionally well together, this award celebrates the very best of Birmingham&rsquo;s sports teams.
+Demonstrating amazing sporting ability and embodying the true spirit of team-work, this award is for the team that have put in the most inspirational performances of the year. This award celebrates the very best of Birmingham Sport’s Teams. A team of two or more people who have participated in a team competition. Subsections of an overall team will not be eligible.
+Individual teams who have achieved success in their chosen sport as district, county, regional, national or international level will be eligible to enter this award.

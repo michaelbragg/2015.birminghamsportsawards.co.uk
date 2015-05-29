@@ -3,7 +3,7 @@ layout: archive-awards
 stylesheet:
 class: page__categories
 
-title: Entry Categories
+title: Award Categories
 permalink: categories/
 meta:
   keywords:

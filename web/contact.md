@@ -13,7 +13,7 @@ meta:
   author:
 
 hero:
-  image: winners-02
+  image:
 
 partners: true
 
@@ -25,7 +25,7 @@ sitemap:
 ---
 
 
-For more information on the Birmingham Sports Awards 2014 please contact:
+For more information on the Birmingham Sports Awards 2015 please contact:
 
 ## Champions UK PLC:
 
