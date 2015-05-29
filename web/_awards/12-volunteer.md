@@ -14,4 +14,5 @@ sponsor:
 
 ---
 
-This award recognises an individual who gives up so much of their own time to provide the region with their help and support in any sporting discipline. An inspirational individual and example of true dedication, the winner of this award will be a valuable part of any community.
+This award recognises an individual of any age who gives up so much of their own time to provide the region with their help and support in any sporting discipline. An inspirational individual and example of true dedication, the winner of this award will be a valuable part of any community.
+All applicants have made an outstanding contribution to sport as an official, administrator or volunteer.

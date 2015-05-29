@@ -13,4 +13,4 @@ sponsor: false
 
 ---
 
-This award has been designed to celebrate a substantial contribution to the community, highlighting an individual or group who has added to Birmingham's community through sport on a large or smaller scale.
+Community is at the heart of the Birmingham Sports Awards. Bringing communities together and inspiring the whole of Birmingham, sport can have a hugely positive impact on the life of communities. This award has been designed to celebrate a substantial contribution to the community, highlighting an individual or group who has added to Birmingham’s community through sport on a large or smaller scale.
