@@ -26,7 +26,7 @@ sitemap:
   exclude: false
 ---
 
-he 2015 Birmingham Sports Awards will culminate in a lavish awards ceremony on the 17 September 2015, at Aston Villa Football Club. Guests will be welcomed to the evening with a Champagne reception before enjoying a fabulous three course gourmet meal. Following this, the friends and family of the finalists are invited to join the evening to watch the ceremony, where the winner of each category will be announced. A host of sporting celebrities will attend the evening and will present each award alongside the category sponsor.
+The 2015 Birmingham Sports Awards will culminate in a lavish awards ceremony on the 17 September 2015, at Aston Villa Football Club. Guests will be welcomed to the evening with a Champagne reception before enjoying a fabulous three course gourmet meal. Following this, the friends and family of the finalists are invited to join the evening to watch the ceremony, where the winner of each category will be announced. A host of sporting celebrities will attend the evening and will present each award alongside the category sponsor.
 
 The night will raise money for Stiliyan Petrov Foundation and the Birmingham Olympic Legacy Tour 2015.
 
