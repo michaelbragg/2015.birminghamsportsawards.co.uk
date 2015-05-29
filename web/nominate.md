@@ -10,7 +10,7 @@ title: Nominate
 permalink: nominate/
 
 hero:
-  image: "001"
+  image: "003"
 
 meta:
   keywords:
@@ -23,11 +23,11 @@ sitemap:
   changefreq: weekly
   exclude:
 ---
-To nominate your athlete, team or volunteer into this year&rsquo;s awards, simply fill in their details below and state which award you wish to put them forward for, demonstrating in a maximum of 250 words why you think they should be a winner at the 2015 Birmingham&nbsp;Sports&nbsp;Awards. Nominations close at midnight on Friday,&nbsp;14&nbsp;August&nbsp;2015.
+To nominate your athlete, team or volunteer into this year’s awards, simply fill in their details below and state which award you wish to put them forward for, demonstrating in a maximum of 250 words why you think they should be a winner at the 2015 Birmingham Sports Awards.
 
-If you are shortlisted as a finalist you shall be contacted during the week commencing August&nbsp;24th. As a finalist you will receive 2&nbsp;tickets to the awards ceremony on Thursday,&nbsp;September 17,&nbsp;2015.
+If you are shortlisted as a finalist you shall be contacted during the week commencing August 24th. As a finalist you will receive 2 tickets to the awards ceremony which will be held on Thursday, September 17, at Aston Villa Football Club.
 
-All entries are to be judged by an independent judging panel compiled by&nbsp;Trinity&nbsp;Mirror.
+All entries are to be judged by an independent judging panel compiled by Trinity Mirror.
 
 <h2>Nomination Form</h2>
 
@@ -44,20 +44,20 @@ All entries are to be judged by an independent judging panel compiled by&nbsp;Tr
 
   <label for="award">Award Category: </label>
   <select name="award" id="award" required>
-    <option value="">Select an award below:</option>
+      <option value="">Select an award below:</option>
     <option value="Lifetime Achievement Award">Lifetime Achievement Award</option>
-    <option value="International Sportsperson of the Year">International Sportsperson of the Year</option>
     <option value="Professional Sportsman of the Year">Professional Sportsman of the Year (19 years and above)</option>
     <option value="Professional Sportswoman of the Year">Professional Sportswoman of the Year (19 years and above)</option>
     <option value="Professional Young Sportsperson of the Year">Professional Young Sportsperson of the Year (up to the age of 18)</option>
+    <option value="Team of the Year">Team of the Year</option>
     <option value="Amateur Sportsman of the Year">Amateur Sportsman of the Year</option>
     <option value="Amateur Sportswoman of the Year">Amateur Sportswoman of the Year</option>
-    <option value="Junior Sportsperson of the Year">Junior Sportsperson of the Year (11&ndash;18 years)</option>
-    <option value="Team of the Year">Team of the Year</option>
-    <option value="Junior Team of the Year">Junior Team of the Year (11&ndash;19 years)</option>
     <option value="Manager/Coach of the Year">Manager/Coach of the Year</option>
-    <option value="Volunteer of the Year Award">Volunteer of the Year Award</option>
+    <option value="Club of the Year">Club of the Year</option>
     <option value="Community Award">Community Award</option>
+    <option value="Volunteer of the Year Award">Volunteer of the Year Award</option>
+    <option value="Junior Team of the Year">Junior Team of the Year (11&ndash;19 years)</option>
+    <option value="Junior Sportsperson of the Year">Junior Sportsperson of the Year (11&ndash;18 years)</option>
   </select>
 
   <label for="reason">I would like to nominate the nominee for this award because<sup class="required" title="Required">&#8224;</sup>:</label>
