@@ -14,4 +14,6 @@ sponsor:
 
 ---
 
-This award recognises a club that has achieved highly as a result of their great work together and in providing a high quality sports environment for its members. The club will have achieved this through supporting coaches and volunteers and developing the infrastructure of the club for future generations.
+The Club of the Year Award recognises the most outstanding Birmingham sporting club. Taking into account all aspects of the club, both on and off the pitch, this award celebrates a club that the whole of Derbyshire can be proud to get behind.
+All clubs that enter this award are likely to have achieved or be working to achieve Clubmark or similar club accreditation and have good school to club links. They will have committed coaches and volunteers and the club will have developed over recent years.
+The club performers may not necessarily be performing at a high level.

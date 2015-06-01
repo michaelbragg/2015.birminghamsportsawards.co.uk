@@ -15,3 +15,4 @@ sponsor:
 ---
 
 This award celebrates the manager or coach who has made a significant contribution to the success of their team or club over the past 12 months. Their hard work and dedication is recognised in this category and the winner will be celebrated for their contribution to their chosen sport.
+A qualified coach or manager (paid/unpaid) who has made a major contribution to the lives of people through their coaching or managing will be eligible to enter this award.

@@ -30,11 +30,13 @@ The 2015 Birmingham Sports Awards will celebrate and reward the outstanding achi
 
 Nominations will be open until midnight on Friday, 14 August 2015.
 
-The awards presentation dinner, which will take place on Thursday, 17&nbsp;September&nbsp;2015 and will be supported by businesses and organisations from across the West Midlands, who recognise the importance of supporting sport in their local community.
+The awards presentation dinner will take place on Thursday, 17&nbsp; September&nbsp;2015 at Aston Villa Football Club and will be supported by businesses and organisations from across the West Midlands, who recognise the importance of supporting sport in their local community.
 
 The evening will be a stylish and high profile affair as we welcome a host of sporting personalities to present each award.
 
 2015 is set to be a fantastic year for sporting stars from across the Birmingham region.
 
 To view the 2014 winners list please visit our '<a href="//www.birminghamsportsawards.co.uk/2014/winners/">Winners</a>' page.
+
+<a href="{{ site.url }}/nominate/" class="btn btn--primary btn__large btn__half" title="Nominate Now">Nominate Now</a>
 
