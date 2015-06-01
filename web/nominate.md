@@ -31,7 +31,10 @@ All entries are to be judged by an independent judging panel compiled by Trinity
 
 <h2>Nomination Form</h2>
 
-<form action="{{ site.api }}/nominate/v2/" method="post" name="nomination" id="nominate" novalidate>
+<form action="{{ site.api }}/nominate/v3/" method="post" name="nomination" id="nominate" novalidate>
+
+  <input name="redirect_uri" type="hidden" value="{{ site.url }}/nominate/confirm/">
+  <input name="error_uri" type="hidden" value="{{ site.url }}/nominate/issue/">
 
   <label for="nomineesname">Nominees Name<sup class="required" title="Required">*</sup>:</label>
   <input name="nomineesname" id="nomineesname" type="text" size="42" placeholder="eg, Nominees Name" required>
