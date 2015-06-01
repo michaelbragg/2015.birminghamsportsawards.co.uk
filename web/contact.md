@@ -13,7 +13,7 @@ meta:
   author:
 
 hero:
-  image:
+  image: "007"
 
 partners: true
 
