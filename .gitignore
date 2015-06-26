@@ -4,7 +4,13 @@
 
 web/static/css/*.css
 
+# Dependencies
+
+vendor/
+
 ## Ruby
+
+.bundle/
 
 ##  Jekyll
 
