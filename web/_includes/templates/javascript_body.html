@@ -4,4 +4,6 @@
 
 {% include templates/analytics.html %}
 <script src="{{ site.static }}/js/global.js"></script>
-{% if page.javascript %}<script src="{{ site.static }}/js/{{ page.javascript }}.js" async></script>{% endif %}
+{% if page.javascript %}{% for script in page.javascript %}
+<script src="{{ site.static }}/js/{{ script }}.js" async></script>
+{% endfor %}{% endif %}

@@ -2,7 +2,6 @@
 layout: content
 stylesheet:
 javascript:
- - lib/jquery.validate.min
  - nominate
 class: page__nominate
 
