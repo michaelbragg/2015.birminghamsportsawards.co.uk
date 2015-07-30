@@ -36,20 +36,31 @@ span>span {
   background-position: center top;
   background-repeat: no-repeat;
   background-size: 100% cover;
+  //
+  margin-bottom: 13em;
 }
 
 .hero__sponsor {
+  top: 13em;
+  max-height: 13em;
   text-align: center;
 }
+
+  .hero__sponsor img {
+    max-height: 13em !important;
+  }
 
 @media screen and (min-width: 769px) {
 
   .hero__image {
     height: 18.75em;
+    margin-bottom: 0;
   }
 
     .hero__image img {
       width: 100%;
+      max-height: auto;
+
     }
 
   .hero__sponsor {
@@ -64,6 +75,8 @@ span>span {
   }
 
   .hero__sponsor > p {
+    right: 1em;
+    position: absolute;
     margin-bottom: 0;
     padding: 1em;
     background-color: rgb(255,255,255);
