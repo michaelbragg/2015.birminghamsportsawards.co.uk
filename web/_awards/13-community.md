@@ -7,9 +7,10 @@ title: Community Award
 
 heading: other
 
-sponsor: false
-#  name:
-#  image:
+sponsor:
+ name: Game Angling Consultancy
+ logo: logo_game-angling-consultancy.svg
+ link: http://www.gameanglingconsultancy.com/
 
 ---
 
