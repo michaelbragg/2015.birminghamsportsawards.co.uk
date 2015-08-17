@@ -18,7 +18,7 @@ hero:
 sponsors: true
 
 sitemap:
-  lastmod: 2015-05-28
+  lastmod: 2015-08-17
   priority: 0.7
   changefreq: weekly
   exclude: false
@@ -37,6 +37,3 @@ The evening will be a stylish and high profile affair as we welcome a host of sp
 2015 is set to be a fantastic year for sporting stars from across the Birmingham region.
 
 To view the 2014 winners list please visit our '<a href="//www.birminghamsportsawards.co.uk/2014/winners/">Winners</a>' page.
-
-<a href="{{ site.url }}/nominate/" class="btn btn--primary btn__large btn__half" title="Nominate Now">Nominate Now</a>
-
