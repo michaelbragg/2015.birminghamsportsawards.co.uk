@@ -37,3 +37,6 @@ The evening will be a stylish and high profile affair as we welcome a host of sp
 2015 is set to be a fantastic year for sporting stars from across the Birmingham region.
 
 To view the 2014 winners list please visit our '<a href="//www.birminghamsportsawards.co.uk/2014/winners/">Winners</a>' page.
+
+
+**Nominations for the 2015 awards have now closed. We will be announcing the shortlist shortly.**
